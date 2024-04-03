@@ -70,7 +70,7 @@ This repository contains code and resources for analyzing input and output param
 
 ## Contributors
 
-- Arjun Nepal[@anepal85](https://github.com/anepal85)
+- Arjun [@anepal85](https://github.com/anepal85)
 
 ## License
 
